@@ -1,5 +1,10 @@
 # CSProjectEncryptionQuiz
+
+READ ME UNDER CONSTRUCTION
+
 Language: Python 
+
+
 IDE: Visual Studio
 
 Cyph3r Quiz is a brief encryption knowledge quiz based on various encryption methods. 
